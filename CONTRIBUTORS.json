@@ -1,0 +1,25 @@
+{
+  "contributions": [],
+  "people": [
+    {
+      "affiliation": null,
+      "author": true,
+      "curator": true,
+      "github": "amm554",
+      "github_id": null,
+      "name": null,
+      "orcid": null,
+      "source": "member"
+    },
+    {
+      "affiliation": null,
+      "author": false,
+      "github": null,
+      "name": "Doe, John",
+      "orcid": null,
+      "source": "offline"
+    }
+  ],
+  "repo": "MorphoDepot/delete-repo-1234",
+  "schema": "morphodepot-contributors/1"
+}
