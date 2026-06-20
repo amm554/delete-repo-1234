@@ -31,11 +31,11 @@ Repository for segmentation of a specimen scan. See [this JSON file](MorphoDepot
 <!-- MORPHODEPOT-DOI:START -->
 ## Citation & DOI
 
-[![DOI](https://img.shields.io/badge/DOI-10.5072%2Fzenodo.516219-blue)](https://doi.org/10.5072/zenodo.516219)
+[![DOI](https://img.shields.io/badge/DOI-10.5072%2Fzenodo.516220-blue)](https://doi.org/10.5072/zenodo.516220)
 
 **Cite this release:**
 
-> Maga, A. Murat (2026). MorphoDepot/delete-repo-1234 — MorphoDepot segmentation dataset (v3) [Data set]. Zenodo. https://doi.org/10.5072/zenodo.516219
+> Maga, A. Murat (2026). MorphoDepot/delete-repo-1234 — MorphoDepot segmentation dataset (v3) [Data set]. Zenodo. https://doi.org/10.5072/zenodo.516220
 
 To cite *all* versions (always resolves to the latest), use the concept DOI: <https://doi.org/10.5072/zenodo.516214>
 
