@@ -1,12 +1,31 @@
 {
-  "contributions": [],
+  "contributions": [
+    {
+      "by": "muratmaga",
+      "issue": 3,
+      "release": "v3",
+      "url": "https://github.com/MorphoDepot/delete-repo-1234/issues/3"
+    },
+    {
+      "by": "SlicerMorph",
+      "issue": 1,
+      "release": "v3",
+      "url": "https://github.com/MorphoDepot/delete-repo-1234/issues/1"
+    },
+    {
+      "by": "amm554",
+      "issue": 2,
+      "release": "v3",
+      "url": "https://github.com/MorphoDepot/delete-repo-1234/issues/2"
+    }
+  ],
   "people": [
     {
       "affiliation": "U of Something",
       "author": true,
       "curator": true,
       "github": "amm554",
-      "github_id": null,
+      "github_id": "U_kgDOCv6noA",
       "name": "Maga, A. Murat",
       "orcid": "0000-0002-7921-9018",
       "source": "member"
@@ -20,11 +39,30 @@
       "source": "offline"
     },
     {
+      "affiliation": null,
       "author": false,
       "github": null,
       "name": "Smith, Jane",
       "orcid": null,
       "source": "offline"
+    },
+    {
+      "affiliation": "University of Washington",
+      "author": false,
+      "github": "muratmaga",
+      "github_id": "MDQ6VXNlcjIxMjg1MTQw",
+      "name": "Maga, A. Murat",
+      "orcid": "0000-0002-7921-9018",
+      "source": "member"
+    },
+    {
+      "affiliation": null,
+      "author": false,
+      "github": "SlicerMorph",
+      "github_id": "MDQ6VXNlcjQ1MDI2NDgy",
+      "name": "SlicerMorph Project",
+      "orcid": null,
+      "source": "non-member"
     }
   ],
   "repo": "MorphoDepot/delete-repo-1234",
